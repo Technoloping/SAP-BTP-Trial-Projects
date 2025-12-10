@@ -1,2 +1,1 @@
-# SAP-BTP-Trial-Projects
-SAP BTP Build Code node.js application
+SAP Build Code demo ( Hello world! ) web app for SAP BTP ( Business Technology Platform )
